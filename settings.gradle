@@ -1,0 +1,4 @@
+include ':pluginmodule'
+include ':plugmid'
+include ':app'
+rootProject.name = "TestPlugKt"
